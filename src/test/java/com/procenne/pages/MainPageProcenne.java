@@ -3,7 +3,7 @@ package com.procenne.pages;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class MainPage extends BasePage{
+public class MainPageProcenne extends BasePage{
 
     //Contact Us
     @FindBy(css = "input[name='first_name']")
